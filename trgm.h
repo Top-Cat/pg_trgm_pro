@@ -7,6 +7,7 @@
 #include "access/gist.h"
 #include "access/itup.h"
 #include "storage/bufpage.h"
+#include "varatt.h"
 
 /*
  * Options ... but note that trgm_regexp.c effectively assumes these values

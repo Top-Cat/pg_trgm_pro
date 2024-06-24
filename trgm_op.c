@@ -9,6 +9,7 @@
 
 #include "catalog/pg_type.h"
 #include "tsearch/ts_locale.h"
+#include "utils/array.h"
 #include "utils/lsyscache.h"
 #include "utils/memutils.h"
 #include "utils/pg_crc.h"
